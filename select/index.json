@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Sparkly Spot",
+  "base_artist": "DOLLCHESTRA",
+  "createdAt": "2026-02-14T13:43:09.603722Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sparkly Spot",
+      "artist": "DOLLCHESTRA",
+      "has_synced": true,
+      "path": "select/01_Sparkly_Spot_DOLLCHESTRA.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sparkly Spot",
+      "artist": "DOLLCHESTRA",
+      "has_synced": false,
+      "path": "select/02_Sparkly_Spot_DOLLCHESTRA.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sparkly Spot (104th NEW Version)",
+      "artist": "DOLLCHESTRA",
+      "has_synced": true,
+      "path": "select/03_Sparkly_Spot_(104th_NEW_Version)_DOLLCHESTRA.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sparkly Spot (104期NEW Ver.)",
+      "artist": "DOLLCHESTRA",
+      "has_synced": true,
+      "path": "select/04_Sparkly_Spot_(104期NEW_Ver.)_DOLLCHESTRA.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sparkly Spot (104th NEW Ver.)",
+      "artist": "DOLLCHESTRA",
+      "has_synced": true,
+      "path": "select/05_Sparkly_Spot_(104th_NEW_Ver.)_DOLLCHESTRA.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sparkly Spot",
+      "artist": "DOLLCHESTRA (野中ここな, 佐々木琴子)",
+      "has_synced": true,
+      "path": "select/06_Sparkly_Spot_DOLLCHESTRA_(野中ここな,_佐々木琴子).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sparkly Spot (Off Vocal)",
+      "artist": "DOLLCHESTRA (野中ここな, 佐々木琴子)",
+      "has_synced": true,
+      "path": "select/07_Sparkly_Spot_(Off_Vocal)_DOLLCHESTRA_(野中ここな,_佐々木琴子).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sparkly Spot",
+      "artist": "DOLLCHESTRA",
+      "has_synced": false,
+      "path": "select/pl_01_Sparkly_Spot_DOLLCHESTRA.txt"
+    }
+  ]
+}
